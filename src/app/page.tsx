@@ -119,6 +119,13 @@ export default function Home() {
         >
           Privacy Policy
         </a>
+        <span className="mx-3">&middot;</span>
+        <a
+          href="/support"
+          className="transition-colors hover:text-white/50"
+        >
+          Support
+        </a>
       </footer>
     </div>
   );
