@@ -126,6 +126,13 @@ export default function Home() {
         >
           Support
         </a>
+        <span className="mx-3">&middot;</span>
+        <a
+          href="/accessibility"
+          className="transition-colors hover:text-white/50"
+        >
+          Accessibility
+        </a>
       </footer>
     </div>
   );
